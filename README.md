@@ -14,6 +14,15 @@ This project was developed as part of the AE4350 assignment on bio-inspired inte
 - TensorBoard logging for metrics visualization.
 - Gameplay video recordings for qualitative evaluation.
 
+## Demo Videos
+
+
+
+- <video controls src="videos/Pong-rl-video-episode-512.mp4" title="Pong"></video>
+- <video controls src="videos/BeamRider-rl-video-episode-343.mp4" title="BeamRider"></video>
+- <video controls src="videos/Breakout-rl-video-episode-2000.mp4" title="Breakout"></video>
+
+
 ## Installation
 
 ### Prerequisites
@@ -104,23 +113,6 @@ See `/figures/charts/` for TensorBoard plots.
 - `/videos/`: Gameplay recordings (MP4 files).
 - `README.md`: This file.
 
-## Videos
-
-Gameplay videos are stored in the `/videos/` folder. These demonstrate the agent's learned policies at various training stages.
-
-To view a sample video (if hosted on GitHub):
-
-  
-  Your browser does not support the video tag.
-
-
-(Replace with your actual video filename. For larger videos, upload to YouTube/Vimeo and embed links below.)
-
-- [Pong Training Video](videos/Pong-rl-video-episode-512.mp4)
-- [BeamRider Evaluation](videos/BeamRider-rl-video-episode-343.mp4)
-- [Breakout Baseline Gameplay](videos/Breakout-rl-video-episode-2000.mp4)
-
-Download and play locally if embedding fails.
 
 ## Acknowledgments and References
 
