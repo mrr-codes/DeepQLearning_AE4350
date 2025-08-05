@@ -1,7 +1,4 @@
-# DeepQLearning_AE4350
-Project part of course AE4350
-
-# Deep Q-Learning for Atari Games
+# Deep Q-Learning for Atari Games AE4350 Project
 
 ## Project Overview
 
@@ -119,9 +116,9 @@ To view a sample video (if hosted on GitHub):
 
 (Replace with your actual video filename. For larger videos, upload to YouTube/Vimeo and embed links below.)
 
-- [Breakout Baseline Gameplay](videos/breakout_baseline.mp4)
-- [Pong Training Video](videos/pong_default.mp4)
-- [BeamRider Evaluation](videos/beamrider_final.mp4)
+- [Pong Training Video](videos/Pong-rl-video-episode-512.mp4)
+- [BeamRider Evaluation](videos/BeamRider-rl-video-episode-343.mp4)
+- [Breakout Baseline Gameplay](videos/Breakout-rl-video-episode-2000.mp4)
 
 Download and play locally if embedding fails.
 
