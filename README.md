@@ -17,6 +17,8 @@ This project was developed as part of the AE4350 assignment on bio-inspired inte
 ## Demo Videos
 
 
+- https://github.com/user-attachments/assets/47a3f5a1-7cb7-4711-9cb4-b1106d7386b3
+
 
 - <video controls src="videos/Pong-rl-video-episode-512.mp4" title="Pong"></video>
 - <video controls src="videos/BeamRider-rl-video-episode-343.mp4" title="BeamRider"></video>
