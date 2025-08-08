@@ -32,13 +32,15 @@ https://github.com/user-attachments/assets/1dee3c6e-48e0-4293-84b6-5026c6e8da87
 ### Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/atari-dqn.git
-   cd atari-dqn
+   git clone https://github.com/yourusername/DeepQLearning_AE4350.git
+   cd DeepQLearning_AE4350
    ```
 
 2. Install dependencies:
    ```
+   cd requirements
    uv pip install -r requirements.txt
+   uv pip install -r requirements-atari.txt
    ```
    (Or use `pip install -r requirements.txt` if not using uv.)
 
