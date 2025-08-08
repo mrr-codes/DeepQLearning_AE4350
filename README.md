@@ -75,11 +75,6 @@ tensorboard --logdir runs/
 ```
 Access at `http://localhost:6006`.
 
-### Evaluating the Agent
-Load a saved model and evaluate:
-```
-python attari_dqn.py --load_model path/to/model.pth --eval_episodes 10
-```
 
 ## Experiments and Results
 
@@ -118,7 +113,5 @@ See `/figures/charts/` for TensorBoard plots.
 - Based on [CleanRL](https://docs.cleanrl.dev/rl-algorithms/dqn/).
 - Original DQN: Mnih et al. (2015), "Human-level control through deep reinforcement learning," Nature.
 - Atari environments from Gymnasium.
-
-For questions, open an issue or contact [your email].
 
 License: MIT
