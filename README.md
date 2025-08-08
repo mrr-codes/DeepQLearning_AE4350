@@ -16,9 +16,16 @@ This project was developed as part of the AE4350 assignment on bio-inspired inte
 
 ## Demo Videos
 
+### Pong
+https://github.com/user-attachments/assets/d7fc0f2d-c850-4f0c-a338-232b2f538b83
+
 https://github.com/user-attachments/assets/375b4a2c-44ee-42b1-b5af-102bf84453ee
+### BeamRider
+https://github.com/user-attachments/assets/b89d797b-1f68-4d60-9de4-459465b1b807
 
 https://github.com/user-attachments/assets/47a3f5a1-7cb7-4711-9cb4-b1106d7386b3
+### Breakout
+https://github.com/user-attachments/assets/7c375acc-e25d-4aec-a543-d28b7eca78c6
 
 https://github.com/user-attachments/assets/1dee3c6e-48e0-4293-84b6-5026c6e8da87
 
