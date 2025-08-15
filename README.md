@@ -101,9 +101,9 @@ We varied one parameter per run (buffer fixed at 300,000):
 Results show sensitivity to learning rate and gamma, with higher rates causing instability.
 
 ### Key Results
-- **BeamRider**: Strong learning with returns >5000.
+- **BeamRider**: Good learning with returns >5000.
 - **Breakout**: Moderate improvement, plateauing at ~55.
-- **Pong**: Limited progress, returns ~0-13.
+- **Pong**: Steady progress, returns ~0-13.
 
 See `/figures/charts/` for TensorBoard plots.
 
